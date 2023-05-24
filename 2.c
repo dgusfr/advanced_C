@@ -14,5 +14,5 @@ double dfdx(double x)
 
 int main()
 {
-    printf("Função: %.3f\nDerivada: %.3f",f(0),dfdx(0));
+    printf("Funï¿½ï¿½o: %.3f\nDerivada: %.3f",f(0),dfdx(0));
 }

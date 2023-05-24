@@ -32,7 +32,7 @@ float det_gauss(int n)
             }
             for(j=i+1;j<n;j++)
             {
-                if(mat[i][i]==0) //evita a divisão por zero quando o denominador é igual a zero
+                if(mat[i][i]==0) //evita a divisï¿½o por zero quando o denominador ï¿½ igual a zero
                     t=0;
                 else
                     t = mat[j][i] / mat[i][i];

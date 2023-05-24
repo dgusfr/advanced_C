@@ -11,7 +11,7 @@ int main()
     char *pz = &z;
 
     soma = *px + *py;
-    resultado = 2293504; ///Endereço de memoria de x
+    resultado = 2293504; ///Endereï¿½o de memoria de x
 
     printf("Endereco x: %d Valor: %d\n",px,*px);
     printf("Endereco y: %d Valor: %.2lf\n",py,*py);
