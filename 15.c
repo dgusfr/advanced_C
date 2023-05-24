@@ -6,7 +6,7 @@ struct lista
     struct lista *proximo;
 };
 
-struct lista *procuravalor(struct lista *plista, int valor)/// *plista = começo da lista(&m1)
+struct lista *procuravalor(struct lista *plista, int valor)/// *plista = comeï¿½o da lista(&m1)
 {
     while(plista != NULL)
     {
@@ -37,7 +37,7 @@ int main()
     printf("Digite o valor da pesquisa: ");
     scanf("%d",&valor);
 
-    resultado = procuravalor(gancho,valor); ///gancho: recebe o endereço de memória da lista!
+    resultado = procuravalor(gancho,valor); ///gancho: recebe o endereï¿½o de memï¿½ria da lista!
 
     if(resultado == NULL)
         printf("Valor nao encontrado!");

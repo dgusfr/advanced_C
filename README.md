@@ -43,11 +43,16 @@ O usuário deve fornecer os limites de integração a e b
 11.Utiliza estruturas (struct) em C juntamente com ponteiros para estruturas. Além disso, são realizadas operações matemáticas com os campos das estruturas.
 
 12.Utiliza estruturas (struct) em C juntamente com ponteiros para inteiros. Os ponteiros são utilizados para armazenar o endereço de memória das variáveis inteiras.
-13.
-14.
-15.
-16.
-17.
+
+13.Demonstra as diferenças entre passagem de variável por valor e passagem de variável por referência em C.
+
+14.Criação e iteração em uma lista encadeada simples em C.
+
+15.Busca por um determinado valor em uma lista encadeada.
+
+16.Gera valores aleatórios
+
+17.Gera seis números aleatórios para simular o sorteio da Loteria.
 
 ## Instalações
 
